@@ -1,4 +1,4 @@
-# mydiary
+# Flutter Firebase Starter Project
 
 
 ## Getting Started
