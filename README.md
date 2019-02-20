@@ -1,21 +1,11 @@
 # mydiary
 
-Flutter Firebase Starter project
 
 ## Getting Started
+Flutter Firebase Starter project is aimed for any one to quickly download and replace his/her firebase files as directed below and ready to do work instead of configuring the Firebase in Flutter especially for iOS there are much issues.
 
-This project is a starting point for a Flutter Firebase application.
+For quick start developing for Flutter Firebase project follow 1 to start from scratch to see each step how is it going follow 2.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-
-#For quick start developing for Flutter Firebase project follow 1 to start from scratch follow 2.
 #1
 # How to run this Project on iOS and Android 
 
